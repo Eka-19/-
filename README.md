@@ -1,2 +1,2 @@
 # -
-StudioGhibli
+StudioGhibli(იაპონური ანიმაციის ფილმები)
